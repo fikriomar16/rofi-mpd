@@ -27,3 +27,6 @@ $ rofi-mpd [option]
 
 ## .Xresources
 [.Xresourcxes](https://github.com/fikriomar16/dotfiles/blob/master/.Xresources)
+
+## License
+The code is available under the [MIT License](https://github.com/fikriomar16/rofi-mpd/blob/master/LICENSE.md)

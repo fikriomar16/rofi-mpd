@@ -5,7 +5,7 @@
 ESC_ACTION="break"
 # source configuration file for rofi if exists
 
-ROFI="rofi -dmenu -p 'Search : '"
+ROFI="rofi -dmenu -p 'Search:'"
 
 addaftercurrent(){
 	
